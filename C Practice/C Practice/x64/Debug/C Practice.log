@@ -1,0 +1,5 @@
+﻿  Lesson 1.c
+C:\Users\Morian Hamami\source\repos\moriahamami-student\First-c-practice\C Practice\C Practice\Lesson 1.c(12,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Morian Hamami\source\repos\moriahamami-student\First-c-practice\C Practice\C Practice\Lesson 1.c(13,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\Morian Hamami\source\repos\moriahamami-student\First-c-practice\C Practice\C Practice\Lesson 1.c(24,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  C Practice.vcxproj -> C:\Users\Morian Hamami\source\repos\moriahamami-student\First-c-practice\C Practice\x64\Debug\C Practice.exe

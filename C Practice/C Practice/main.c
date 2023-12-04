@@ -1,5 +1,6 @@
 void main()
 {
-	lesson1();
-	lesson2();
+	// lesson1();
+	// lesson2();
+	homework();
 }

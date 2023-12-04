@@ -1,4 +1,6 @@
-﻿  main.c
-C:\Users\Morian Hamami\source\repos\moriahamami-student\First-c-practice\C Practice\C Practice\main.c(3,2): warning C4013: 'lesson1' undefined; assuming extern returning int
-C:\Users\Morian Hamami\source\repos\moriahamami-student\First-c-practice\C Practice\C Practice\main.c(4,2): warning C4013: 'lesson2' undefined; assuming extern returning int
-  C Practice.vcxproj -> C:\Users\Morian Hamami\Source\Repos\moriahamami-student\First-c-practice\C Practice\x64\Debug\C Practice.exe
+﻿  HW.c
+C:\MORIA\College\Softwares\C practice\First-c-practice\C Practice\C Practice\HW.c(22,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\MORIA\College\Softwares\C practice\First-c-practice\C Practice\C Practice\HW.c(25,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\MORIA\College\Softwares\C practice\First-c-practice\C Practice\C Practice\HW.c(28,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\MORIA\College\Softwares\C practice\First-c-practice\C Practice\C Practice\HW.c(31,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  C Practice.vcxproj -> C:\MORIA\College\Softwares\C practice\First-c-practice\C Practice\x64\Debug\C Practice.exe

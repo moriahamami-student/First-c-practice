@@ -1,6 +1,2 @@
-﻿  HW.c
-C:\MORIA\College\Softwares\C practice\First-c-practice\C Practice\C Practice\HW.c(22,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\MORIA\College\Softwares\C practice\First-c-practice\C Practice\C Practice\HW.c(25,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\MORIA\College\Softwares\C practice\First-c-practice\C Practice\C Practice\HW.c(28,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\MORIA\College\Softwares\C practice\First-c-practice\C Practice\C Practice\HW.c(31,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+﻿  lesson3.c
   C Practice.vcxproj -> C:\MORIA\College\Softwares\C practice\First-c-practice\C Practice\x64\Debug\C Practice.exe
